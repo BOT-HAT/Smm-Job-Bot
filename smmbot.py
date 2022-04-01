@@ -4,9 +4,9 @@ import time
 import random
 from datetime import datetime
 #your email
-email='youremail@gmail.com'
+email='armskyline2022@gmail.com'
 #password
-password='your jobs.smmshop.com password'
+password='eYQu1IaMQ04z'
 
 SIGNUP_URL = 'https://jobs.smmshop.com/bot/register'
 #login and generate auth token
